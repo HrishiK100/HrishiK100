@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HrishiK100
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, CSS, and Web Development
-- 💞️ I’m looking to collaborate on Discord bot development and web development
-- 📫 Reach me on hrish#7294 for discord
+- Hi, I’m Hrishi K!
+- I’m interested in Python, C and C++
+- I’m currently learning Python and C/C++
+- I’m looking to collaborate on Python and C/C++ Projects
 
 <!---
 HrishiK100/HrishiK100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
